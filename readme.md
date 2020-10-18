@@ -1,4 +1,4 @@
-# Spleeter easy colab note
+# Spleeter web (easy colab note)
 
 ## What's this?
 This is [spleeter](https://github.com/deezer/spleeter) with google colab note UI and super powerful GPU. You can unmix your music with fast spleeter gpu version.
